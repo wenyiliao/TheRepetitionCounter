@@ -1,6 +1,6 @@
 # TheRepetitionCounter
 
-**count for your exercise reps**
+**Count for Your Exercise Reps**
 
 Have you ever lost track of your reps while exercising?
 Or... do you sometimes give up too easily?
