@@ -12,7 +12,7 @@ The current version allows two mode: **'COUNT'** and **'GOAL'**
 See the demo vedio to know how it works!
 
 
-@@vedio is here!!
+[![TheRepetitionCounter](background.png)](https://youtu.be/82tyvJniV0o)
 
 Download
 ---
